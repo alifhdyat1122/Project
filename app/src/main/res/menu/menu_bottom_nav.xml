@@ -4,7 +4,7 @@
 
     <item
         android:id="@+id/menu_bottomnav_home"
-        android:title="HOME"
+        android:title="Home"
         android:icon="@drawable/ic_home_black_24dp"
         app:showAsAction="ifRoom"/>
 

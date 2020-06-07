@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="horizontal"
-        android:background="#93d4e7">
+        android:background="#2e383f">
 
         <LinearLayout
             android:layout_marginStart="4dp"
@@ -26,11 +26,11 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Name Country"
-                android:textColor="#000000"
+                android:textColor="#fff"
                 android:layout_weight="1"
                 android:layout_marginLeft="5dp"
                 android:fontFamily="monospace"
-                android:background="#93d4e7"
+                android:background="#2e383f"
                 android:gravity="center_vertical"
                 android:textSize="16sp"
                 android:elevation="10dp"
@@ -40,9 +40,9 @@
                 android:id="@+id/itemfavorit_star_favorit"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:background="#93d4e7"
+                android:background="#2e383f"
                 android:elevation="1dp"
-                android:outlineAmbientShadowColor="#272727"
+                android:outlineAmbientShadowColor="#FF33514E"
                 android:src="@drawable/ic_delete_black_24dp"/>
 
         </LinearLayout>

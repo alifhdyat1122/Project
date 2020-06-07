@@ -4,14 +4,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".view.HomeFragment"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="#083542">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="#cfb8ff"
-        android:textColor="#000000"
-        android:text="HOT NEWS"
+        android:background="#4F5153"
+        android:textColor="#fff"
+        android:text="News"
         android:textSize="24dp"
         android:fontFamily="monospace"
         android:gravity="center"
